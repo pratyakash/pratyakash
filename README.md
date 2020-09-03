@@ -27,7 +27,7 @@
 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&link=https://github.com/pratyakash)](https://github.com/pratyakash)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/pratyakash)](https://github.com/pratyakash)
-[![Flask](https://img.shields.io/badge/-Flask-007ACC?style=flat&logo=typescript&link=https://github.com/pratyakash](https://github.com/pratyakash)
+[![Flask](https://img.shields.io/badge/-Flask-007ACC?style=flat&logo=flask&link=https://github.com/pratyakash](https://github.com/pratyakash)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/pratyakash)](https://github.com/pratyakash) 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/pratyakash)](https://github.com/pratyakash)
 
