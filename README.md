@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratyakash Saini</h1>
 <h3 align="center">MERN Stack Developer</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript, Jest, Enzyme**
 
 - 💬 Ask me about **Javascript, React, Redux, Node, Express**
 
