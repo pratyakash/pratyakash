@@ -36,6 +36,6 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 <p>
-<a href="https://linkedin.com/in/www.linkedin.com/in/pratyakash-s-saini-038639106" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/pratyakash-s-saini-038639106" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/pratyakash-s-saini-038639106/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/pratyakash-s-saini-038639106/" height="30" width="30" /></a>
  <a href="https://pratyakashsaini.medium.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@pratyakashsaini" height="30" width="30" /></a>
 </p>
