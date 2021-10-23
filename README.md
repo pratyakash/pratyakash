@@ -30,7 +30,7 @@
 
 ![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
 [![Flask](https://img.shields.io/badge/-Flask-007ACC?style=flat&logo=flask&link=https://github.com/pratyakash)](https://github.com/pratyakash)
-[![GitHub](https://img.shields.io/badge/-GitHub-007ACC?style=flat&logo=github&link=https://github.com/pratyakash)](https://github.com/pratyakash)
+![github](https://badgen.net/badge/icon/github?icon=github&label)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyakash&show_icons=true" alt="pratyakash" /></p>
 
