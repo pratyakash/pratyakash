@@ -28,7 +28,7 @@
 <br/>
 <br/>
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript- -lightgrey?style=flat&logo=typescript&link=https://github.com/pratyakash)](https://github.com/pratyakash)
+![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)(https://github.com/pratyakash)
 [![Flask](https://img.shields.io/badge/-Flask-007ACC?style=flat&logo=flask&link=https://github.com/pratyakash)](https://github.com/pratyakash)
 [![GitHub](https://img.shields.io/badge/-GitHub-007ACC?style=flat&logo=github&link=https://github.com/pratyakash)](https://github.com/pratyakash)
 
