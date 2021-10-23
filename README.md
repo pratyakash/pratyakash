@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pratyakash Saini</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **TypeScript, Jest, Enzyme**
+- 🌱 I’m currently learning **TypeScript, Ethical Hacking**
 
-- 💬 Ask me about **Javascript, React, Redux, Node, Express**
+- 💬 Ask me about **Javascript, React, Redux, Node, Express, Jest, Enzyme**
 
 - 📫 How to reach me **pratyakash13@gmail.com**
 
@@ -14,7 +14,7 @@
 <br/>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg"></code>
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"></code>
