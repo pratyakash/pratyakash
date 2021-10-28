@@ -12,7 +12,7 @@
 ### Languages and Tools :computer:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white&color=61dafb)
 ![Redux](https://img.shields.io/badge/-Redux-E10098?style=flat-square&logo=redux&color=764abc&logoColor=white)
 ![ts](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&color=blue&logoColor=white)
 ![babel](https://img.shields.io/badge/-Babel-E10098?style=flat-square&logo=babel&color=323330)
@@ -21,11 +21,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SASS](https://img.shields.io/badge/-Sass-E10098?style=flat-square&logo=sass&color=bf4080&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Express](https://img.shields.io/badge/-Express-E10098?style=flat-square&logo=express&color=eee&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-E10098?style=flat-square&logo=nginx&color=099639&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
