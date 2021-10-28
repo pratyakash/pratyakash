@@ -23,10 +23,8 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
@@ -37,10 +35,13 @@
 <br/>
 
 
-![ts](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&color=blue&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-E10098?style=flat-square&logo=flask&color=green&logoColor=white)
-![github](https://img.shields.io/badge/-Github-E10098?style=flat-square&logo=github&color=gray&logoColor=black)
-![jest](https://img.shields.io/badge/-Jest-E10098?style=flat-square&logo=jest)
+![ts](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&color=blue&logoColor=white)
+![babel](https://img.shields.io/badge/-Babel-E10098?style=flat&logo=babel&color=blue)
+![python](https://img.shields.io/badge/-Python-E10098?style=flat&logo=python&color=2d618c&logoColor=white)
+![FastApi](https://img.shields.io/badge/-Fastapi-E10098?style=flat&logo=fastapi&color=009485&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-E10098?style=flat&logo=flask&color=green&logoColor=white)
+![github](https://img.shields.io/badge/-Github-E10098?style=flat&logo=github&color=gray&logoColor=black)
+![jest](https://img.shields.io/badge/-Jest-E10098?style=flat&logo=jest)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyakash&show_icons=true" alt="pratyakash" /></p>
 
