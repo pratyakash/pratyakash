@@ -43,10 +43,10 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratyakash&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyakash&theme=tokyonight" />
 </p>
-<p align="left">
+<!-- <p align="left">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyakash&theme=tokyonight&layout=compact" />
     <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pratyakash&theme=tokyonight&layout=compact" />
-</p>
+</p> -->
 
 <h3> 🤝🏻 Connect with Me </h3>
 <p>
