@@ -24,15 +24,12 @@
 <code><img alt="MongoDB" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img alt="SQL" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img alt="Nginx" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /></code>
-<code><img alt="AWS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" /></code>
-<code><img alt="Ubuntu" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
-<code><img alt="Pi" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></code>
-<code><img alt="SSH" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" /></code>
 <code><img alt="Bash" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
 <br/>
 <br/>
 
-
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
 ![npm](https://img.shields.io/badge/-npm-E10098?style=flat&logo=npm&color=323330&logoColor=white)
 ![github](https://img.shields.io/badge/-github-E10098?style=flat&logo=github&color=gray&logoColor=black)
 ![jest](https://img.shields.io/badge/-jest-E10098?style=flat&logo=jest)
@@ -42,6 +39,7 @@
 ![python](https://img.shields.io/badge/-python-E10098?style=flat&logo=python&color=2d618c&logoColor=white)
 ![FastApi](https://img.shields.io/badge/-fastapi-E10098?style=flat&logo=fastapi&color=009485&logoColor=white)
 ![Flask](https://img.shields.io/badge/-flask-E10098?style=flat&logo=flask&color=green&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-ubuntu-E10098?style=flat&logo=ubuntu&color=e95420&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyakash&show_icons=true" alt="pratyakash" /></p>
