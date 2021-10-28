@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **TypeScript, Ethical Hacking**
 
-- 💬 Ask me about **Javascript, React, Redux, Node, Express, Jest, Enzyme**
-
 - 📫 How to reach me **pratyakash13@gmail.com**
 
 ### Languages and Tools :computer:
