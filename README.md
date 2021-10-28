@@ -42,6 +42,7 @@
 ![python](https://img.shields.io/badge/-python-E10098?style=flat&logo=python&color=2d618c&logoColor=white)
 ![FastApi](https://img.shields.io/badge/-fastapi-E10098?style=flat&logo=fastapi&color=009485&logoColor=white)
 ![Flask](https://img.shields.io/badge/-flask-E10098?style=flat&logo=flask&color=green&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyakash&show_icons=true" alt="pratyakash" /></p>
 
