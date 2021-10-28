@@ -28,7 +28,6 @@
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
@@ -37,8 +36,9 @@
 <br/>
 <br/>
 
+![AWS](https://badgen.net/badge/icon/jest?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg&label&color=blue)
 ![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
-[![Flask](https://img.shields.io/badge/-Flask-007ACC?style=flat&logo=flask&link=https://github.com/pratyakash)](https://github.com/pratyakash)
+![Flask](https://img.shields.io/badge/-Flask-007ACC?style=flat&logo=flask&link=https://github.com/pratyakash)](https://github.com/pratyakash)
 ![github](https://badgen.net/badge/icon/Github?icon=github&label)
 ![jest](https://badgen.net/badge/icon/jest?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg&label&color=blue)
 
