@@ -40,7 +40,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-007ACC?style=flat&logo=flask&link=https://github.com/pratyakash)
 ![github](https://badgen.net/badge/icon/Github?icon=github&label)
 ![jest](https://badgen.net/badge/icon/jest?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg&label&color=blue)
-![pi](https://badgen.net/badge/icon/jest?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg&label&color=blue)
+![pi](https://badgen.net/badge/icon/pi?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg&label&color=blue)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratyakash&show_icons=true" alt="pratyakash" /></p>
 
