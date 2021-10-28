@@ -44,7 +44,8 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratyakash&theme=tokyonight" />
 </p>
 <p align="left">
-    <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyakash&theme=tokyonight&layout=compact" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratyakash&theme=tokyonight&layout=compact" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=pratyakash&theme=tokyonight&layout=compact" />
 </p>
 
 <h3> 🤝🏻 Connect with Me </h3>
