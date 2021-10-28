@@ -37,7 +37,7 @@
 <br/>
 
 ![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
-![Flask](https://img.shields.io/badge/-Flask-007ACC?style=flat&logo=flask&link=https://github.com/pratyakash)
+![Flask](https://badgen.net/badge/icon/jest?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg&label&color=blue)
 ![github](https://badgen.net/badge/icon/Github?icon=github&label)
 ![jest](https://badgen.net/badge/icon/jest?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg&label&color=blue)
 ![pi](https://badgen.net/badge/icon/pi?icon=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg&label&color=blue)
