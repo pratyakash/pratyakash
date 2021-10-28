@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **pratyakash13@gmail.com**
 
-- ⚡ Fun fact **F1 2019 over Counter Strike**
-
 ### Languages and Tools :computer:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
