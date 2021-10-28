@@ -25,7 +25,6 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" /></code>
@@ -35,8 +34,9 @@
 <br/>
 
 
+![npm](https://img.shields.io/badge/-npm-E10098?style=flat&logo=npm&color=323330&logoColor=white)
 ![ts](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&color=blue&logoColor=white)
-![babel](https://img.shields.io/badge/-Babel-E10098?style=flat&logo=babel&color=blue)
+![babel](https://img.shields.io/badge/-Babel-E10098?style=flat&logo=babel&color=323330&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-E10098?style=flat&logo=python&color=2d618c&logoColor=white)
 ![FastApi](https://img.shields.io/badge/-Fastapi-E10098?style=flat&logo=fastapi&color=009485&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-E10098?style=flat&logo=flask&color=green&logoColor=white)
