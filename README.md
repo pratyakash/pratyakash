@@ -1,7 +1,7 @@
 <h1 align="center">Hello, folks! <img src="https://raw.githubusercontent.com/pratyakash/pratyakash/master/wave.gif" width="30px" height="30px"></h1>
 <h3 align="center">I'm Pratyakash Saini</h3>
 
-- 🌱 I’m currently learning **TypeScript, RTL**
+- 🌱 I’m currently learning **RTL**
 
 - 📫 How to reach me **pratyakash13@gmail.com**
 
